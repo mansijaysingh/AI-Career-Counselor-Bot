@@ -19,7 +19,7 @@ An AI-powered career guidance web app that gives personalized suggestions based 
 
 ## 🚀 Live Demo
 
-👉 [Click to open the app](https://your-render-link-here.onrender.com)
+👉 [Click to open the app](https://career-counselor-bot.onrender.com/).
 
 ---
 
